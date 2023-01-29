@@ -10,29 +10,34 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
 
 ### EXPERIENCE
 
-- Lighthouse Labs
+- Lighthouse Labs (Vancouver, remote)
   - Mentor | Instructor
   - Remote delivery of the Full Stack Web Development (PERN) program to cohorts and individuals
   - [website](https://www.lighthouselabs.ca)
 
-- DEVF
+- DEVF (Latin America, remote)
   - Community Lead | Instructor
   - On site and remote bootcamps of the Master in Web Development (MERN) program
   - [website](https://devf.la)
 
-- Tech Garage
+- Tech Garage Cancún Technology Park (Riviera Maya)
   - Innovation Manager
   - Boost the software, innovation and knowledge-based ecosystem in the state of Quintana Roo
   - [website](https://www.facebook.com/techgaragemx)
 
 ### ENTREPRENEURSHIPS
 
+- Neonwave
+  - Founder Member | CTO
+  - Digital marketing agency delivering web development, branding and graphic design.
+  - [website](https://neonwave.mx)
+
 - Kaanbal
   - Founder Member | CTO
   - Nonprofit organization to help rural communities with Internet access and educational technology
   - [website](https://kaanbal.org)
 
-- Global Shapers Cancún
+- Global Shapers Cancún HUB
   - Founder Member | Former Vice Curator
   - Youth empowerment initiative to promote citizenship and social impact
   - [website](https://globalshaperscancun.org)
