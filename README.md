@@ -10,17 +10,17 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
 
 ### EXPERIENCE
 
-- Lighthouse Labs (Vancouver, remote)
+- Lighthouse Labs (Vancouver, Remote)
   - Mentor | Instructor
   - Remote delivery of the Full Stack Web Development (PERN) program to cohorts and individuals
   - [website](https://www.lighthouselabs.ca)
 
-- DEVF (Latin America, remote)
+- DEVF (Latin America, Remote)
   - Community Lead | Instructor
   - On site and remote bootcamps of the Master in Web Development (MERN) program
   - [website](https://devf.la)
 
-- Tech Garage Cancún Technology Park (Riviera Maya)
+- Tech Garage Technology Park (Cancún, Riviera Maya)
   - Innovation Manager
   - Boost the software, innovation and knowledge-based ecosystem in the state of Quintana Roo
   - [website](https://www.facebook.com/techgaragemx)
@@ -47,7 +47,7 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
 - Cerebro Digital
   - Community Lead | Content Creator
   - Educational content to promote science and technology to a 4 million followers community
-  - [website](https://www.facebook.com/tucerebrodigital/)
+  - [website](https://www.facebook.com/tucerebrodigital)
 
 - Internet Society
   - Mexico Chapter Member
@@ -60,7 +60,7 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
   - This project was developed by Kai Meikle, Krismina La and Nathan Tsang. Application interacts with the Plant.id API and identifies the plant uploaded by the user, as well as it will also inform you about whether or not the plant identified may be toxic to household animals.
   - #fullstack #plantid
   - [link](https://herbiview-production.up.railway.app)
-  - [code](https://github.com/arismink/herbiview)
+  - [code](https://github.com/pedroagont/herbiview)
 
 - Shopify Technical Assessment
   - Project completed by Amy McCarthy as part of a job application challenge. Is a web application that allows users to submit fun queries and get a completion response from using the OpenAI API.
@@ -71,20 +71,20 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
 - Pokemon Matching Game
   - Awesome and simple matching card game using Pokemon characters. Made by Norberto Jiménez as part of his 2 month web development bootcamp in DEVF.
   - #vanillajs #frontend 
-  - [link](https://norbjz.github.io/memorama-pokemon/)
+  - [link](https://norbjz.github.io/memorama-pokemon)
   - [code](https://github.com/Norbjz/memorama-pokemon)
 
 - Women Violencemeter
   - This project was developed by Óscar Javier after a frontend bootcamp with react in DEVF.
   - #reactjs #frontend 
-  - [link](https://mo0sh.github.io/violentometro/)
+  - [link](https://mo0sh.github.io/violentometro)
   - [code](https://github.com/mo0sh/violentometro)
 
 - Studeecloud
   - A collaborative study group dashboard that seamlessly integrates a range of tools like pomodoro timer and video calls to support staying on track. Done by Kehan Fu, Lisa Meyer and Gonzo Nieto
   - #fullstack #twilio
   - [link](https://studeecloud-production.up.railway.app/login.html)
-  - [code](https://github.com/studeecloud/monorepo)
+  - [code](https://github.com/pedroagont/studeecloud)
 
 - The Shoebox
   - An e-commerce website to browse through a collection of shoes where you can filter the search based on style, color and price. Project implemented by Khaled Alkhatib and Farzaneh Sadegh.
@@ -111,16 +111,16 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
   - [code](https://github.com/pedroagont/master-code-g7/blob/master/05_Frontend/07_react-bootstrap)
 
 - VanillaJS Avatar Maker
-  - [link](https://pedroagont.github.io/mochi-maker/)
+  - [link](https://pedroagont.github.io/mochi-maker)
   - [code](https://github.com/pedroagont/mochi-maker)
 
 - VanillaJS NASA Image Searcher
-  - [link](https://pedroagont.github.io/steam-fair-conference-8apr/)
-  - [link](https://github.com/pedroagont/steam-fair-conference-8apr)
+  - [link](https://pedroagont.github.io/steam-fair-conference-8apr)
+  - [code](https://github.com/pedroagont/steam-fair-conference-8apr)
 
 - VanillaJS Color Flicker
-  - [link](https://pedroagont.github.io/The-Flicker/)
-  - [link](https://github.com/pedroagont/The-Flicker)
+  - [link](https://pedroagont.github.io/The-Flicker)
+  - [code](https://github.com/pedroagont/The-Flicker)
 
 ### PRESS
 
