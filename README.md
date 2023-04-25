@@ -59,7 +59,7 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
 - Herbiview
   - This project was developed by Kai Meikle, Krismina La and Nathan Tsang. Application interacts with the Plant.id API and identifies the plant uploaded by the user, as well as it will also inform you about whether or not the plant identified may be toxic to household animals.
   - #fullstack #plantid
-  - [link](https://herbiview-production.up.railway.app)
+  - [link](http://herbiview.onrender.com/)
   - [code](https://github.com/pedroagont/herbiview)
 
 - Shopify Technical Assessment
@@ -83,7 +83,7 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
 - Studeecloud
   - A collaborative study group dashboard that seamlessly integrates a range of tools like pomodoro timer and video calls to support staying on track. Done by Kehan Fu, Lisa Meyer and Gonzo Nieto
   - #fullstack #twilio
-  - [link](https://studeecloud-production.up.railway.app/login.html)
+  - [link](https://studeecloud.onrender.com/login.html)
   - [code](https://github.com/pedroagont/studeecloud)
 
 - The Shoebox
