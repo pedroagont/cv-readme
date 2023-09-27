@@ -41,6 +41,11 @@ During my spare time I love to play chess, to skydive and to tell as many bad jo
   - Founder Member | Former Vice Curator
   - Youth empowerment initiative to promote citizenship and social impact
   - [website](https://globalshaperscancun.org)
+ 
+- TicketFlyers.com
+  - Founder
+  - Hotels, flights, and tours price scanner
+  - [website](https://ticketflyers.com)
 
 ### COLLABS
 
